@@ -4,4 +4,4 @@ version = 1
 automerge_label = "automerge"
 
 [approve]
-auto_approve_usernames = ["dependabot", "github-actions", "thomaspoignant"]
+auto_approve_usernames = ["dependabot", "github-actions", "thomaspoignant", "gofeatureflag-bot"]
