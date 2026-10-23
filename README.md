@@ -9,7 +9,7 @@ GO Feature Flag is a simple, lightweight, and 100% open-source self-hosted featu
 ## Purpose of this Repository
 
 This repository hosts WebAssembly (WASM) builds of GO Feature Flag components. WASM enables high-performance Go-based logic execution in the different OpenFeature servers providers.
-While the main `go-feature-flag` repository holds the core Go source, this `wasm-releases` repository offers compiled WASM binaries for easy integration into WebAssembly projects.
+While the main [`go-feature-flag`](https://github.com/thomaspoignant/go-feature-flag) repository holds the core Go source, this `wasm-releases` repository offers compiled WASM binaries for easy integration into WebAssembly projects.
 
 ## Usage
 
@@ -23,4 +23,4 @@ Ways to contribute include writing tutorials, improving documentation, submittin
 
 ## License
 
-This project is MIT licensed. See the `LICENSE` file in the main [go-feature-flag repository](https://github.com/thomaspoignant/go-feature-flag) for details.
+This project is MIT licensed. See the `LICENSE` file in the main [go-feature-flag repository](https://github.com/thomaspoignant/go-feature-flag/blob/main/LICENSE) for details.
