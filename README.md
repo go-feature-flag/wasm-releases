@@ -1,4 +1,4 @@
-# go-feature-flag/wasm-releases
+# wasm-releases
 
 This repository provides WebAssembly (WASM) releases for the [GO Feature Flag](https://gofeatureflag.org/) project.
 
